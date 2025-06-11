@@ -1,5 +1,5 @@
 # KANETS INDIA
-Developing a responsive and interactive educational website for a client, featuring a clean UI, user-friendly navigation, and essential sections such as courses, contact, and admissions. Integrated dynamic content, animations, and modern design practices to enhance user engagement and deliver a seamless learning experience.
+Developing a responsive and interactive educational website for a client, featuring a clean UI, user-friendly navigation, and essential sections such as courses, contact, and admissions. Integrated dynamic content, animations, and modern design practices to enhance user engagement and deliver a seamless learning experience..
 
 ### Screenshots
 
@@ -22,3 +22,4 @@ Developing a responsive and interactive educational website for a client, featur
 ![image](https://github.com/user-attachments/assets/920d0274-de87-4936-894a-2f67453854d2)
 
 ![image](https://github.com/user-attachments/assets/d716f608-3e73-48e9-863a-05378899e2ba)
+
