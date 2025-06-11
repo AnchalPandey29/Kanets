@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# KANETS INDIA
+Developing a responsive and interactive educational website for a client, featuring a clean UI, user-friendly navigation, and essential sections such as courses, contact, and admissions. Integrated dynamic content, animations, and modern design practices to enhance user engagement and deliver a seamless learning experience.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Screenshots
 
-## Available Scripts
+![image](https://github.com/user-attachments/assets/a1373bc6-376d-4da7-883c-36d272531cb0)
 
-In the project directory, you can run:
+![image](https://github.com/user-attachments/assets/e8781c04-2fe3-484a-9aa7-dff5f3692c0c)
 
-### `npm start`
+![image](https://github.com/user-attachments/assets/6a35ce97-4909-4fd9-9889-1134b451b6ca)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://github.com/user-attachments/assets/1e0d63e5-220f-44d5-9933-61734fdc53d5)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![image](https://github.com/user-attachments/assets/683fda21-d405-4298-a495-fe1102a0bd0d)
 
-### `npm test`
+![image](https://github.com/user-attachments/assets/39750166-3e0a-4a8b-a833-d69e81a1d010)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://github.com/user-attachments/assets/a35a76e8-9595-4411-bd10-422fc91819a4)
 
-### `npm run build`
+![image](https://github.com/user-attachments/assets/6ccc380c-10ca-41a0-98da-2787e0e2dbed)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://github.com/user-attachments/assets/920d0274-de87-4936-894a-2f67453854d2)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://github.com/user-attachments/assets/d716f608-3e73-48e9-863a-05378899e2ba)
